@@ -3,13 +3,11 @@ body {
 }
 
 .code-block {
-    background-color: #f4f4f4;
+    background-color: #7287a6;
     padding: 20px;
     margin: 20px 0;
-    border-left: 3px solid #f36d33;
+    border: 3px solid #2c2725;
     font-family: monospace;
     background-color: bisque;
     width: 25%;
 }
-
-code {}
