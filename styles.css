@@ -2,7 +2,14 @@ body {
     font-family: Poppins;
 }
 
-code {
+.code-block {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+    border-left: 3px solid #f36d33;
     font-family: monospace;
     background-color: bisque;
+    width: 25%;
 }
+
+code {}
