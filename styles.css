@@ -1,3 +1,8 @@
 body {
     font-family: Poppins;
 }
+
+code {
+    font-family: monospace;
+    background-color: bisque;
+}
